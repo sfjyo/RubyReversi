@@ -1,0 +1,3 @@
+# RubyReversi
+
+Rubyでリバーシ
